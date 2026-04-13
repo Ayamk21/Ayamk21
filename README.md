@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Ingenieure+en+informatique;Passionnee+par+les+apps+modernes;Toujours+prete+a+apprendre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=980&lines=Ingenieure+en+informatique;Passionnee+par+les+applications+web+modernes;Java+Symfony+React+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,14 +29,23 @@
 ## A propos de moi
 
 - Je suis ingenieure en informatique passionnee par le developpement d'applications web modernes et performantes.
-- Je developpe des solutions avec **Java** pour la robustesse backend, **Symfony** pour des architectures web structurees et **React** pour des interfaces interactives et fluides.
-- J'aime transformer des besoins metier en applications concretes, avec une attention particuliere au clean code, a la qualite logicielle et a l'experience utilisateur.
-- Objectif 2026: publier plus de projets open source et continuer a monter en expertise full-stack.
+- Je developpe des solutions avec **Java**, **Symfony**, **React** et **Node.js** pour creer des produits fiables et utiles.
+- Multilingue: maitrise de l'arabe, du francais, de l'anglais et de l'allemand.
+- Diplomee d'une **licence** en informatique.
+- Actuellement en parcours de **3 ans a ESPRIT** en cycle d'ingenieur en informatique.
 
-## Stack
+## Technologies et outils
+
+- Langages de programmation: Java, C, C++, Python, PHP, JavaScript, HTML5, CSS3, XML
+- Frameworks et bibliotheques: React, Node.js, Flutter, FlutterFlow, Laravel, Angular, Symfony
+- Bases de donnees: MySQL, NoSQL, MongoDB, Oracle, Firebase
+- IDE: Eclipse, IntelliJ IDEA, VS Code, Android Studio
+- Outils de conception et bureautique: Microsoft Excel, Microsoft Word, Canva
+
+## Stack visuelle
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,symfony,js,ts,react,nodejs,python,mysql,postgres,docker,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,js,html,css,react,nodejs,flutter,angular,symfony,laravel,mysql,mongodb,firebase,git,github,vscode,androidstudio&perline=8" />
 </p>
 
 ## Stats GitHub
