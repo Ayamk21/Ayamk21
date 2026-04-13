@@ -1,7 +1,7 @@
-# Salut, moi c'est Aya Mabrouk
+﻿# Salut, moi c'est Aya Mabrouk
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Developpeur+Full-Stack;Passionne+par+les+apps+modernes;Toujours+pret+a+apprendre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Ingenieure+en+informatique;Passionnee+par+les+apps+modernes;Toujours+prete+a+apprendre" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,8 +11,11 @@
   <a href="https://github.com/Ayamk21?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-voir-0A66C2?style=for-the-badge" />
   </a>
-  <a href="mailto:tonemail@example.com">
-    <img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge" />
+  <a href="mailto:a.mabrouk2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge" />
+  </a>
+  <a href="mailto:Aya.MABROUK@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-Esprit-0A66C2?style=for-the-badge" />
   </a>
 </p>
 
@@ -25,7 +28,7 @@
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,symfony,js,ts,react,nodejs,python,mysql,postgres,docker,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,php,symfony,js,ts,react,nodejs,python,mysql,postgres,docker,git,github,vscode&perline=8" />
 </p>
 
 ## Stats GitHub
@@ -41,17 +44,18 @@
 
 ## Projets en avant
 
-- **Unibank+**: plateforme bancaire web moderne
-- **Projet 2**: mini description
-- **Projet 3**: mini description
+- **Projet Java**: application Java orientee objet avec gestion fonctionnelle complete
+- **Projet Symfony**: application web Symfony structuree avec base de donnees
+- **Projet PFE React + Node.js**: plateforme full-stack moderne (frontend React, backend Node.js)
 
 ## Me contacter
 
 - LinkedIn: `https://linkedin.com/in/ton-profil`
-- Email: `tonemail@example.com`
+- Email 1: `a.mabrouk2002@gmail.com`
+- Email 2: `Aya.MABROUK@esprit.tn`
 
 ---
 
 <p align="center">
-  Merci de visiter mon profil ✨
+  Merci de visiter mon profil
 </p>
