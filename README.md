@@ -21,9 +21,10 @@
 
 ## A propos de moi
 
-- Je construis des applications web utiles et rapides
-- J'aime le clean code, l'UI moderne et l'automatisation
-- Objectif 2026: publier plus de projets open source
+- Je suis ingenieure en informatique passionnee par le developpement d'applications web modernes et performantes.
+- Je developpe des solutions avec **Java** pour la robustesse backend, **Symfony** pour des architectures web structurees et **React** pour des interfaces interactives et fluides.
+- J'aime transformer des besoins metier en applications concretes, avec une attention particuliere au clean code, a la qualite logicielle et a l'experience utilisateur.
+- Objectif 2026: publier plus de projets open source et continuer a monter en expertise full-stack.
 
 ## Stack
 
@@ -50,7 +51,7 @@
 
 ## Me contacter
 
-- LinkedIn: `https://linkedin.com/in/ton-profil`
+- LinkedIn: `https://www.linkedin.com/in/aya-mabrouk-ba117b28a/`
 - Email 1: `a.mabrouk2002@gmail.com`
 - Email 2: `Aya.MABROUK@esprit.tn`
 
